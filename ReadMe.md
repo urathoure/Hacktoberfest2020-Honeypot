@@ -32,3 +32,22 @@ public class Main {
 console.log("Helo world!");
 ```
 
+
+## PHP
+
+```php
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
+
+```
+
+
+
